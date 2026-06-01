@@ -7,3 +7,8 @@ import json
 a='"hloo"'
 data=json.loads(a)
 print(data)
+
+import json
+a="hloo"
+data=json.dumps(a)
+print(data)
