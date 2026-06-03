@@ -4,6 +4,6 @@ x=json.dumps(b)
 print(x)
 
 import json
-b=7
+b='9'
 x=json.dumps(b)
 print(x)
