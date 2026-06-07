@@ -8,3 +8,4 @@ print(x)
 data={"fruit":"Apple","price":50}
 x=json.dumps(data)
 print(x)
+
