@@ -3,4 +3,5 @@ print(arr.count(2))
 print(sorted(arr))
 arr.append(9)
 print(arr)
+print(len(arr)) #9
 
