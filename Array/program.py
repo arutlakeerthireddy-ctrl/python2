@@ -4,4 +4,5 @@ print(sorted(arr))
 arr.append(9)
 print(arr)
 print(len(arr)) #9
+print(max(arr))
 
