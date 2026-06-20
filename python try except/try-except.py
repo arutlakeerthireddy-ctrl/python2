@@ -121,5 +121,10 @@ if age<0:
     raise ValueError("age cannot be negative")
 #ValueError: age cannot be negative
 
+#example
+marks=20
+if marks<30:
+    raise ValueError("if marks<30 student will fail")
+
 
 
