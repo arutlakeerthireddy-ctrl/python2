@@ -1,4 +1,4 @@
-#array:it stores multiple values in a single variable
+#1 array:it stores multiple values in a single variable
 #example:
 Fruits=['mango','banana','apple']
 
